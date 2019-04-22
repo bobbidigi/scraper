@@ -1,0 +1,17 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "node scraper.js"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "rob allen",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.14.0"
+  }
+}
